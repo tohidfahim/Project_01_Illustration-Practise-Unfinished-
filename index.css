@@ -1,0 +1,89 @@
+#index_body{
+    background-image: url("Illustration_Image/bi.jpg");
+    background-color: #cccccc;
+}
+
+#index_header{
+	font-weight: bold;
+	font-family: "AR DESTINE";
+	text-shadow: 3px 2px grey;
+	font-size: 100px;
+	text-align: center;
+	color: #17202A;
+}
+
+#index_bd{
+    font-family: "Algerian";
+	font-size: 20px;
+	text-align: center;
+	background-color: #99A3A4;
+	border-style: double;
+	color: black;
+}
+
+#index_bd:hover {
+	color:green;
+	font-family: "Trashbox";
+    font-weight: bold;
+}
+
+#index_ruet{
+    font-family: "Algerian";
+	font-size: 20px;
+	text-align: center;
+	background-color: #99A3A4;
+	border-style: double;
+	color: black;
+}
+
+#index_ruet:hover {
+	color: #8E44AD;
+	font-family: "Trashbox";
+    font-weight: bold;
+}
+
+#index_partners{
+    font-family: "Algerian";
+	font-size: 20px;
+	text-align: center;
+	background-color: #99A3A4;
+	border-style: double;
+	color: black;
+}
+
+#index_partners:hover {
+	color:red;
+	font-family: "Trashbox";
+    font-weight: bold;
+}
+
+#index_others{
+    font-family: "Algerian";
+	font-size: 20px;
+	text-align: center;
+	background-color: #99A3A4;
+	border-style: double;
+	color: black;
+}
+
+#index_others:hover {
+	color:blue;
+	font-family: "Trashbox";
+    font-weight: bold;
+}
+
+#index_sigma {
+	position: absolute;
+    bottom: 0;
+    font-weight: bold;
+}
+
+#index_fbpic{
+	height: 50px;
+	width: 50px;
+    position: absolute;
+    right: 25px;
+    bottom: 5px;
+    background-size: contain;
+}
+

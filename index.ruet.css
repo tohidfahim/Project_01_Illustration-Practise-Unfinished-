@@ -1,0 +1,55 @@
+#ruet_body{
+    background-image: url("Illustration_Image/illustration_ruet.jpg");  
+    background-color: #cccccc;
+}
+
+#life_is_ruet {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: #EC7063;
+	border-style: double;
+	color: black;
+	opacity: 0.8;
+}
+
+#life_is_ruet:hover {
+	color: red;
+	font-family: "Trashbox";
+    font-weight: bold;
+    opacity: 1;
+}
+
+#ruet_cse {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: SkyBlue;
+	border-style: double;
+	color: black;
+	opacity: 0.8;
+}
+
+#ruet_cse:hover {
+	color: blue;
+	font-family: "Trashbox";
+    font-weight: bold;
+    opacity: 1;
+}
+
+#ruet_ete {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: GreenYellow;
+	border-style: double;
+	color: black;
+	opacity: 0.8;
+}
+
+#ruet_ete:hover {
+	font-family: "Trashbox";
+	color: green;
+    font-weight: bold;
+    opacity: 1;
+}

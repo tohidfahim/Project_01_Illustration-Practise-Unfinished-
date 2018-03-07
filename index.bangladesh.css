@@ -1,0 +1,86 @@
+#bd_body{
+    background-image: url("Illustration_Image/illustration_bd.jpg");  
+    background-size:cover;
+    background-color: #cccccc;
+}
+
+#bdesh {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: #F1C40F;
+	border-style: double;
+	color: black;
+}
+
+#bdesh:hover {
+	color:white;
+    font-weight: bold;
+}
+
+
+#feb_12 {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: #99A3A4;
+	border-style: double;
+	color: black;
+}
+
+#feb_12:hover {
+	color:blue;
+    font-weight: bold;
+}
+
+#mar_26 {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: #E74C3C;
+	border-style: double;
+	color: black;
+}
+
+#mar_26:hover {
+	color:green;
+    font-weight: bold;
+}
+
+#dec_16 {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: #1D8348;
+	border-style: double;
+	color: black;
+}
+
+#dec_16:hover {
+	color:red;
+    font-weight: bold;
+}
+
+#apr_14 {
+    font-weight: bold;
+	font-size: 25px;
+	text-align: center;
+	background-color: #512E5F;
+	border-style: double;
+	color: black;
+}
+
+#apr_14:hover {
+	color:#2980B9;
+    font-weight: bold;
+}
+
+#filter{
+	left: 4%;
+	top: 23%;
+	position: absolute;
+	width: 10%;
+	height: 15%;
+	z-index: 3;
+	border: 2px solid #FFFFFF;
+}
